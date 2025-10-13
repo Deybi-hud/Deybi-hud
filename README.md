@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Deybi</h1>
-<h3 align="center">Estudiante de Ingeniería en Informática | Apasionado por la tecnología, la música y la fotografía</h3>
+<h3 align="center">Estudiante de Ingeniería en Informática</h3>
 
 ---
 
