@@ -17,13 +17,3 @@
 
 </div>
 
----
-
-### Estadísticas de GitHub
-<div align="center">
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Deybi-hud&show_icons=true&theme=github_dark)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Deybi-hud&layout=compact&theme=github_dark)
-
-</div>
-
