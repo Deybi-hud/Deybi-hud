@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Deybi</h1>
+<h1 align="center">Hola amigo</h1>
 <h3 align="center">Estudiante de Ingeniería en Informática</h3>
 
 ---
